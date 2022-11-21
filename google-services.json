@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632910382250",
+    "project_id": "native-notifications-30077",
+    "storage_bucket": "native-notifications-30077.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632910382250:android:edf21eda502df16188bcd3",
+        "android_client_info": {
+          "package_name": "com.rachitt28.nativeauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632910382250-hkc1d4sfuibv5d24rbgaelve91iri7a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rachitt28.nativeauth",
+            "certificate_hash": "e330cad59dfdf3a6fd5a03f81fedc60e95fe3f67"
+          }
+        },
+        {
+          "client_id": "632910382250-e3ttnvv9k3apkq628u0447m7o7ol1vau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUE4cr4ikcJ1WjgGlZxtV-HtOLurwQq2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632910382250-e3ttnvv9k3apkq628u0447m7o7ol1vau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
